@@ -1,5 +1,5 @@
 ﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+/*Console.WriteLine("Hello, World!");
 Console.WriteLine("input a number:");
 string input = Console.ReadLine();
 if (!string.IsNullOrEmpty(input))
@@ -7,4 +7,15 @@ if (!string.IsNullOrEmpty(input))
     float celsius = float.Parse(input);
     float kelvin = celsius + 273.15f;
     Console.WriteLine(kelvin);
+}*/
+    string input = Console.ReadLine();
+    float num;
+    float.TryParse ( input, out num );
+    if ( num % 2 == 0 )
+    {
+        Console.WriteLine("Even");
+        }
+    else
+        {
+        Console.WriteLine("Odd");
 }
