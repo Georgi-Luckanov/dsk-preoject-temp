@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "PHui10LFks8OpwPlaAxUIUPqJZthWvEfFgCddmBSkJCE0AgxMNNDxLNk3GpnyFfWrgwA4iKa26N67bRJ0x1uag==",
+  "dgSpecHash": "fR5vd98EQRk=",
   "success": true,
-  "projectFilePath": "C:\\Users\\user\\Desktop\\temp\\temp\\temp.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\user\\Documents\\GitHub\\dsk-preoject-temp\\temp\\temp\\temp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.20\\microsoft.netcore.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.20\\microsoft.windowsdesktop.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.20\\microsoft.aspnetcore.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.20\\microsoft.netcore.app.host.win-x64.7.0.20.nupkg.sha512"
+  ],
   "logs": []
 }
